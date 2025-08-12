@@ -1,30 +1,18 @@
-# badboytermenator23 🦾
+# 👨‍💻 Welcome to My Profile!
 
-## Giới thiệu
-Chào mừng bạn đến với trang GitHub của tôi! Tôi là một hacker mũ trắng đầy nhiệt huyết trong lĩnh vực an ninh mạng.
+![Profile Views](https://komarev.com/ghpvc/?username=badboytermenator23&label=Profile%20Views&color=blue&style=flat)
 
-## 🎯 Mục tiêu
-- Bảo vệ dữ liệu và hệ thống khỏi các cuộc tấn công.
-- Nâng cao nhận thức về an ninh mạng trong cộng đồng.
-- Phát triển các công cụ bảo mật hiệu quả.
+## 🌟 Highlights
+- Expert in CI/CD pipelines and configuration management.
+- Passionate about cloud technologies and orchestration tools.
+- Avid learner and contributor to open-source projects.
 
-## 💻 Công nghệ và Stack
-- **Ngôn ngữ lập trình**: Python, JavaScript, C++
-- **Frameworks**: Flask, Node.js
-- **Công cụ**: Metasploit, Wireshark, Burp Suite
+## 🛠️ Toolkit
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42B0?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-A50000?style=flat&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 
-## 🚀 Dự án nổi bật
-| Tên dự án | Mô tả |
-|-----------|-------|
-| CyberGuard | Phát triển một hệ thống phát hiện xâm nhập. |
-| Phishing Detector | Công cụ phát hiện email lừa đảo. |
+## 📬 Contact Me
+- [GitHub Profile](https://github.com/badboytermenator23)  
+- [Telegram](https://t.me/badboytermenator23)  
 
-## 📊 Thống kê
-![Số lượng dự án](https://komarev.com/ghpvc/?username=badboytermenator23&label=Profile%20Views&color=blue&style=flat)
-![Top Ngôn ngữ](https://github-readme-stats.vercel.app/api/top-langs/?username=badboytermenator23&layout=compact&theme=radical)
-![Thống kê GitHub](https://github-readme-stats.vercel.app/api?username=badboytermenator23&show_icons=true&theme=radical)
-
-## 📫 Liên hệ
-Nếu bạn muốn kết nối, hãy gửi email cho tôi tại [badboytermenator23@email.com](mailto:badboytermenator23@email.com) hoặc theo dõi tôi trên [Twitter](https://twitter.com/badboytermenator23). 
-
-Cảm ơn đã ghé thăm! Hãy cùng nhau bảo vệ thế giới mạng.
+<!--fp:1755006378-7244:badboytermenator23:devops:fr-->
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badboytermenator23&layout=compact&theme=prussian" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=badboytermenator23&show_icons=true&theme=prussian" height="130"/></p>
