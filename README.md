@@ -1,16 +1,18 @@
-## Hi there 👋
+![user-centric development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwbnZoazVqMXlrOXJrYXo2bmo4NHRuMTFsNG12dnczbHpqZnBobGJycSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jUKldPpZHZClbMwA7R/giphy.gif)
 
-<!--
-**badboytermenator23/badboytermenator23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Giới thiệu
+Chào mừng bạn đến với hồ sơ GitHub của tôi! Tôi là badboytermenator23, một lập trình viên với niềm đam mê trong việc phát triển phần mềm và giải pháp sáng tạo.
 
-Here are some ideas to get you started:
+# Kỹ năng
+- Lập trình: Python, JavaScript, Java
+- Phát triển web: HTML, CSS, React
+- Cơ sở dữ liệu: MySQL, MongoDB
+- Công cụ: Git, Docker, Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Dự án
+- [Dự án 1](https://github.com/badboytermenator23/project1): Một ứng dụng web cho phép người dùng quản lý công việc.
+- [Dự án 2](https://github.com/badboytermenator23/project2): API RESTful cho dịch vụ đặt hàng trực tuyến.
+
+# Liên hệ
+- Email: badboytermenator23@example.com
+- LinkedIn: [badboytermenator23](https://www.linkedin.com/in/badboytermenator23)
