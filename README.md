@@ -27,3 +27,4 @@ Currently focused on developing innovative applications and contributing to open
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badboytermenator23&layout=compact&theme=dracula" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=badboytermenator23&show_icons=true&theme=dracula" height="130"/></p>
 <p><img src="https://streak-stats.demolab.com/?user=badboytermenator23&theme=dracula" height="150"/></p>
+
