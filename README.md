@@ -1,18 +1,29 @@
-# 👨‍💻 Welcome to My Profile!
+# 👾 BadBoyTermenator23
 
 ![Profile Views](https://komarev.com/ghpvc/?username=badboytermenator23&label=Profile%20Views&color=blue&style=flat)
 
-## 🌟 Highlights
-- Expert in CI/CD pipelines and configuration management.
-- Passionate about cloud technologies and orchestration tools.
-- Avid learner and contributor to open-source projects.
+### Summary
+A passionate coder with a knack for problem-solving and creating impactful software solutions.
 
-## 🛠️ Toolkit
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42B0?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-A50000?style=flat&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+### Focus
+Currently focused on developing innovative applications and contributing to open-source projects.
 
-## 📬 Contact Me
-- [GitHub Profile](https://github.com/badboytermenator23)  
-- [Telegram](https://t.me/badboytermenator23)  
+### Toolkit
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!--fp:1755006378-7244:badboytermenator23:devops:fr-->
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badboytermenator23&layout=compact&theme=prussian" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=badboytermenator23&show_icons=true&theme=prussian" height="130"/></p>
+### Highlights
+- 💡 Developed a full-stack web application that streamlines project management for teams.
+- 🛠️ Contributed to multiple open-source initiatives, enhancing code quality and performance.
+- 🌍 Engaged in community coding events, fostering collaboration and knowledge-sharing.
+
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=badboytermenator23&show_icons=true&count_private=true&theme=radical)
+
+### Contact
+- GitHub: [badboytermenator23](https://github.com/badboytermenator23)
+- Telegram: [@badboytermenator23](https://t.me/badboytermenator23)
+
+<sub>id:17550099</sub>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badboytermenator23&layout=compact&theme=dracula" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=badboytermenator23&show_icons=true&theme=dracula" height="130"/></p>
+<p><img src="https://streak-stats.demolab.com/?user=badboytermenator23&theme=dracula" height="150"/></p>
